@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "297060360409",
+    "project_id": "tharasafoodapp",
+    "storage_bucket": "tharasafoodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297060360409:android:c75231e6340a0bbd961ec8",
+        "android_client_info": {
+          "package_name": "com.deliveryexpress.captain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzwMvb8Y7DEKJ5oViQOi7SNLKpbgqGSPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297060360409:android:dbc9ea54341b5179961ec8",
+        "android_client_info": {
+          "package_name": "com.deliveryexpress.partner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzwMvb8Y7DEKJ5oViQOi7SNLKpbgqGSPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297060360409:android:68ad783f6ffc6dfd961ec8",
+        "android_client_info": {
+          "package_name": "com.lightworks.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzwMvb8Y7DEKJ5oViQOi7SNLKpbgqGSPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
